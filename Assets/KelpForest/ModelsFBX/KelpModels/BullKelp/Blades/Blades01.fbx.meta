@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: a3f289f42af77b844bf7cd41671c22c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Blades01
+    100004: KelpModel:KelpForestGroup
+    100006: KelpModel:KelpFrondsPushedDown:Fronds
+    100008: KelpModel:KelpFrondsZWindNoSurface:Fronds
+    100010: KelpModel:KelpFrondsZWindNoSurface:Fronds1
+    100012: KelpModel:KelpFrondsZWindNoSurface:transform1
+    100014: KelpModel:KelpFrondsZWindNoSurface:transform2
+    100016: KelpModel:KelpStalk3
+    100018: KelpModel:KelpStalk4
+    100020: KelpModel:KelpStalk7
+    100022: KelpModel:transform5
+    100024: KelpModel:transform6
+    100026: KelpStalk6
+    100028: polySurface16
+    100030: polySurface17
+    100032: polySurface18
+    100034: polySurface19
+    100036: polySurface20
+    100038: polySurface21
+    100040: polySurface22
+    100042: polySurface23
+    100044: polySurface24
+    100046: polySurface25
+    100048: polySurface26
+    100050: polySurface27
+    100052: ShaleRock
+    100054: ShaleRock1
+    100056: transform1
+    100058: transform2
+    100060: transform3
+    100062: transform4
+    100064: transform46
+    100066: transform47
+    100068: transform48
+    100070: transform49
+    100072: transform5
+    100074: transform50
+    100076: transform51
+    100078: transform52
+    100080: transform53
+    100082: transform54
+    100084: transform55
+    100086: transform56
+    100088: transform57
+    400000: Blades01
+    400002: //RootNode
+    400004: KelpModel:KelpForestGroup
+    400006: KelpModel:KelpFrondsPushedDown:Fronds
+    400008: KelpModel:KelpFrondsZWindNoSurface:Fronds
+    400010: KelpModel:KelpFrondsZWindNoSurface:Fronds1
+    400012: KelpModel:KelpFrondsZWindNoSurface:transform1
+    400014: KelpModel:KelpFrondsZWindNoSurface:transform2
+    400016: KelpModel:KelpStalk3
+    400018: KelpModel:KelpStalk4
+    400020: KelpModel:KelpStalk7
+    400022: KelpModel:transform5
+    400024: KelpModel:transform6
+    400026: KelpStalk6
+    400028: polySurface16
+    400030: polySurface17
+    400032: polySurface18
+    400034: polySurface19
+    400036: polySurface20
+    400038: polySurface21
+    400040: polySurface22
+    400042: polySurface23
+    400044: polySurface24
+    400046: polySurface25
+    400048: polySurface26
+    400050: polySurface27
+    400052: ShaleRock
+    400054: ShaleRock1
+    400056: transform1
+    400058: transform2
+    400060: transform3
+    400062: transform4
+    400064: transform46
+    400066: transform47
+    400068: transform48
+    400070: transform49
+    400072: transform5
+    400074: transform50
+    400076: transform51
+    400078: transform52
+    400080: transform53
+    400082: transform54
+    400084: transform55
+    400086: transform56
+    400088: transform57
+    2100000: KelpModel_KelpShader
+    2300000: Blades01
+    3300000: Blades01
+    4300000: Blades01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
