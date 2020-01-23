@@ -4,6 +4,8 @@
 
 <h4 align="center">First Project for CMPM202 : Research in Computational Media.</h4>
 
+![game image](https://raw.githubusercontent.com/daemonslayer/wavefunctioncollapse/master/Demo/game.png)
+
 #### Authors
 Kapil Gupta(kgupta15@ucsc.edu)<br>
 Jeffrey Weekly(jweekley@ucsc.edu)
